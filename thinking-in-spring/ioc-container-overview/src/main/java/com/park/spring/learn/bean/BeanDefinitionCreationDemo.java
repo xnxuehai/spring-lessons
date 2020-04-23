@@ -1,6 +1,6 @@
-package com.park.springthink.bean;
+package com.park.spring.learn.bean;
 
-import com.park.springthink.domain.User;
+import com.park.spring.learn.domain.User;
 import org.springframework.beans.MutablePropertyValues;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionBuilder;

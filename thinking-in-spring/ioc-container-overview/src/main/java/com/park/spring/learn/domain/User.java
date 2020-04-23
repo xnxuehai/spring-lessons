@@ -1,4 +1,4 @@
-package com.park.springthink.domain;
+package com.park.spring.learn.domain;
 
 /**
  * 用户类
