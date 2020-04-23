@@ -1,16 +1,13 @@
-package com.park.thinking.in.spring.ioc.container.overview.domain;
+package com.park.springthink.domain;
 
 /**
  * 用户类
  *
  * @author Aaron
- * @date 2020/4/21 19:15
  * @since
  */
 public class User {
-
     private Long id;
-
     private String name;
 
     public Long getId() {
