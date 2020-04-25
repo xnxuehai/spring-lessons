@@ -1,5 +1,7 @@
 package com.park.spring.learn.domain;
 
+import javax.annotation.PostConstruct;
+
 /**
  * 用户类
  *
@@ -40,4 +42,5 @@ public class User {
         user.setName("Aaron");
         return user;
     }
+
 }
