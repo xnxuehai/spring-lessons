@@ -13,6 +13,7 @@
     <modules>
         <module>ioc-container-bean</module>
         <module>ioc-dependency-lookup</module>
+        <module>ioc-dependency-injection</module>
     </modules>
 
     <properties>

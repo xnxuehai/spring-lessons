@@ -1,7 +1,5 @@
 package com.park.spring.learn.domain;
 
-import javax.annotation.PostConstruct;
-
 /**
  * 用户类
  *
