@@ -14,6 +14,7 @@
         <module>ioc-container-bean</module>
         <module>ioc-dependency-lookup</module>
         <module>ioc-dependency-injection</module>
+        <module>spring-appliction-event</module>
     </modules>
 
     <properties>
