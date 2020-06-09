@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.park</groupId>
-    <artifactId>thinking-in-spring</artifactId>
+    <artifactId>spring-lesson</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
