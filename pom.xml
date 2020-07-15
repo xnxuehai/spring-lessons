@@ -10,6 +10,8 @@
 
     <modules>
         <module>spring-bean-base</module>
+        <module>spring-bean-metadata</module>
+        <module>spring-bean-lookup</module>
     </modules>
 
     <packaging>pom</packaging>
