@@ -12,6 +12,7 @@
         <module>spring-bean-base</module>
         <module>spring-bean-metadata</module>
         <module>spring-bean-lookup</module>
+        <module>spring-bean-injection</module>
     </modules>
 
     <packaging>pom</packaging>
